@@ -1,0 +1,3 @@
+total 4
+-rw-r--r-- 1 kali kali 1874 Mar 23 21:16 hw2.py
+-rw-r--r-- 1 kali kali    0 Mar 23 21:17 ls.txt

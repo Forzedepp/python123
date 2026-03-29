@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/kali/dz/python/5/hw4/test_redirect.py", line 73, in test_redirect
+    raise Exception('Второй стандартный поток ошибок')
+Exception: Второй стандартный поток ошибок
+Traceback (most recent call last):
+  File "/home/kali/dz/python/5/hw4/test_redirect.py", line 48, in test_redirect_stderr
+    raise Exception('Это стандартный поток ошибок')
+Exception: Это стандартный поток ошибок

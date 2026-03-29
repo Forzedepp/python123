@@ -1,0 +1,22 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  23916 13424 ?        Ss   20:51   0:00 /sbin/init
+root           2  0.0  0.0   3120  2176 ?        Sl   20:51   0:00 /init
+root           7  0.0  0.0   3168  2296 ?        Sl   20:51   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          38  0.0  0.1  50076 14856 ?        Ss   20:51   0:00 /usr/lib/systemd/systemd-journald
+root          47  0.0  0.1  33536 10880 ?        Ss   20:51   0:00 /usr/lib/systemd/systemd-udevd
+root          74  0.0  0.0   4280  2176 ?        Ss   20:51   0:00 /usr/sbin/cron -f
+message+      75  0.0  0.0   7860  3456 ?        Ss   20:51   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         117  0.0  0.0  17776  7936 ?        Ss   20:51   0:00 /usr/lib/systemd/systemd-logind
+root         202  0.0  0.0   5168  2432 hvc0     Ss+  20:51   0:00 /usr/sbin/agetty --noreset --noclear --issue-file=/etc/issue:/etc/issue.d:/run/issue.d:/usr/lib/issue.d --keep-baud 115200,57600,38400,9600 - vt220
+root         203  0.0  0.0   5124  2304 tty1     Ss+  20:51   0:00 /usr/sbin/agetty --noreset --noclear --issue-file=/etc/issue:/etc/issue.d:/run/issue.d:/usr/lib/issue.d - linux
+root         434  0.0  0.0   7472  4096 ?        Ss   20:51   0:00 login -- kali
+kali         444  0.0  0.1  22028 12160 ?        Ss   20:51   0:00 /usr/lib/systemd/systemd --user
+kali         446  0.0  0.0  22120  3616 ?        S    20:51   0:00 (sd-pam)
+kali         461  0.0  0.0   5308  4608 pts/1    Ss+  20:51   0:00 -bash
+root         830  0.0  0.0   3128   904 ?        Ss   21:00   0:00 /init
+root         831  0.0  0.0   3144  1292 ?        S    21:00   0:00 /init
+kali         833  0.0  0.0   8528  5120 pts/0    Ss   21:00   0:00 -bash
+kali         932  0.0  0.1  20676 15488 pts/0    T    21:01   0:00 python3
+kali        1331  0.0  1.0  95256 83320 pts/0    T    21:03   0:00 python3 app.py
+kali        1332  0.0  1.0 169004 83192 pts/0    Tl   21:03   0:00 /usr/bin/python3 app.py
+kali        1704  0.0  0.0   9280  3840 pts/0    R+   21:14   0:00 ps aux
