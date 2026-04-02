@@ -2,29 +2,31 @@
 1. update & upgrade  
 - Обновление списка репозиториев Ubuntu с использованием sudo-привилегий  
 - Запуск обновления системных пакетов в Ubuntu с отображением списка обновляемых компонентов.
-![[{026D6C47-F197-4CAF-81E9-6E7744FA5FAF}.png]]
+
+![](./classwork/1/classwork1.md)
 
 2. date +"%Y-%m-%d"  
 - Вывод текущей даты в формате ГОД-МЕСЯЦ-ДЕНЬ через команду dat
 
-![[{184288A1-39E8-4DBC-9A5A-DE9441C20CB7}.png]]!
+![](./classwork/1/classwork2.md)
 3. nano ls -la /etc  
 - Перенаправление вывода команды ls -la /etc в файл out.txt и просмотр его содержимого.
 
-![[{8B9F9B0B-981A-4A3F-94D3-30AC746EE658}.png]]
+![](./classwork/1/classwork3.md)
 4. apt moo  
 - Вывод ASCII-арта через команду apt moo.
-![[{77882DC0-74BD-4512-99F2-DB5302DF396F}.png]]
+![](./classwork/1/classwork4.md)
 
 
 5. pip install flask requests  (venv)  
 - Создание виртуального окружения Python и установка фреймворка Flask с зависимостями.  
 - Установка библиотеки requests и её зависимостей в виртуальное окружение Python.
 
-![[{C06DB5EE-9098-47DC-AAC7-72D858B50C37}.png]]
+![](./classwork/1/classwork5.md)
 6. Hello world, теримнал, код  
 - Создание простого веб-приложения на Flask с маршрутом, возвращающим HTML-страницу.  
 - Запуск и отображение веб-приложения Flask с сообщением "Hello world!" в браузере.
-![[{59262B34-6B26-4441-88FC-F8F4A0A98B70}.png]]![[{C2442129-82C4-49CB-896F-7231A08AA602}.png]]
+![](./classwork/1/classwork6.md)
+![](./classwork/1/classwork7.md)
 
 
