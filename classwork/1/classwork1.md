@@ -3,32 +3,32 @@
 - Обновление списка репозиториев Ubuntu с использованием sudo-привилегий  
 - Запуск обновления системных пакетов в Ubuntu с отображением списка обновляемых компонентов.
 
-![1](./classwork/1/classwork1.md)
+![1](./classwork/1/img/1.png)
 
 2. date +"%Y-%m-%d"  
 - Вывод текущей даты в формате ГОД-МЕСЯЦ-ДЕНЬ через команду dat
 
-![2](./classwork/1/classwork2.md)
+![2](./classwork/1/img/2.png)
 3. nano ls -la /etc  
 - Перенаправление вывода команды ls -la /etc в файл out.txt и просмотр его содержимого.
 
-![3](./classwork/1/classwork3.md)
+![3](./classwork/1/img/3.png)
 4. apt moo  
 - Вывод ASCII-арта через команду apt moo.
-[4](./classwork/1/classwork4.md)
+![1](./classwork/1/img/4.png)
 
 
 5. pip install flask requests  (venv)  
 - Создание виртуального окружения Python и установка фреймворка Flask с зависимостями.  
 - Установка библиотеки requests и её зависимостей в виртуальное окружение Python.
 
-![5](./classwork/1/classwork5.md)
+![1](./classwork/1/img/5.png)
 6. Hello world, теримнал, код  
 - Создание простого веб-приложения на Flask с маршрутом, возвращающим HTML-страницу.  
 - Запуск и отображение веб-приложения Flask с сообщением "Hello world!" в браузере.
 
-![6](./classwork/1/classwork6.md)
+![1](./classwork/1/img/6.png)
 
-![7](./classwork/1/classwork7.md)
+![1](./classwork/1/img/7.png)
 
 
